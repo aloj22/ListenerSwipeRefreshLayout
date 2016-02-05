@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.aloj22.listenerswiperefreshlayout.ListenerSwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe_refresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <!--add list view to fix SwipeRefreshLayout not showing bug-->
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listView"
+            android:layout_gravity="center_horizontal"
+            android:dividerHeight="1sp"
+            android:translationZ="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:clickable="true" />
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="18sp"
+            android:text="Hello World!" />
+
+    </RelativeLayout>
+
+
+</com.aloj22.listenerswiperefreshlayout.ListenerSwipeRefreshLayout>
+
+

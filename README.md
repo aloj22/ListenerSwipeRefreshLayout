@@ -17,6 +17,7 @@ Add ListenerSwipeRefreshLayout view to your xml
 
 Add you listener to the view
 ```java
+ListenerSwipeRefreshLayout swipeRefreshLayout = (ListenerSwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 swipeRefreshLayout.setOnRefreshListener(new ListenerSwipeRefreshLayout.OnRefreshListener() {
 
             @Override

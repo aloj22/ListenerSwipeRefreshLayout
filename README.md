@@ -1,5 +1,5 @@
 # ListenerSwipeRefreshLayout
-This library allows you to liten to SwipeRefreshLayout start, cancel and finish event
+This library allows you to listen to SwipeRefreshLayout start, cancel and finish events.
 
 ## Usage
 

@@ -3,6 +3,11 @@ This library allows you to listen to SwipeRefreshLayout start, cancel and finish
 
 ## Usage
 
+Add the library to your build.gradle
+```gradle
+    compile 'com.aloj22.listenerswiperefreshlayout:library:1.0.0'
+```
+
 Add ListenerSwipeRefreshLayout view to your xml
 
 ```xml

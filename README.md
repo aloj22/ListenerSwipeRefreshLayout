@@ -1,6 +1,8 @@
 # ListenerSwipeRefreshLayout
 This library allows you to listen to SwipeRefreshLayout start, cancel and finish events.
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ListenerSwipeRefreshLayout-green.svg?style=true)](https://android-arsenal.com/details/1/3125)
+
 ## Usage
 
 Add the library to your build.gradle

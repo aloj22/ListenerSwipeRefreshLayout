@@ -50,6 +50,23 @@ swipeRefreshLayout.setOnRefreshListener(new ListenerSwipeRefreshLayout.OnRefresh
         });
 ```
 
+## Developed By
+--------
+
+Alonso Sanchez 
+
+<a href="https://twitter.com/aloj22">
+  <img alt="Follow me on Twitter" width="30" heigth="30"
+       src="http://icons.iconarchive.com/icons/danleech/simple/96/twitter-icon.png" />
+</a>
+<a href="https://plus.google.com/100388148261962342252">
+  <img alt="Follow me on Google+"  width="30" heigth="30"
+       src="http://icons.iconarchive.com/icons/danleech/simple/96/google-plus-icon.png" />
+</a>
+<a href="https://www.linkedin.com/in/alonsosanchezlinkedin">
+  <img alt="Follow me on LinkedIn" width="30" heigth="30"
+       src="http://icons.iconarchive.com/icons/danleech/simple/96/linkedin-icon.png" />
+</a>
 
 ## License
 

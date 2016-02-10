@@ -3,6 +3,7 @@ This library allows you to listen to SwipeRefreshLayout start, cancel and finish
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ListenerSwipeRefreshLayout-green.svg?style=true)](https://android-arsenal.com/details/1/3125)
 
+--------
 ## Usage
 
 Add the library to your build.gradle
@@ -50,8 +51,8 @@ swipeRefreshLayout.setOnRefreshListener(new ListenerSwipeRefreshLayout.OnRefresh
         });
 ```
 
-## Developed By
 --------
+## Developed By
 
 Alonso Sanchez 
 
@@ -68,6 +69,7 @@ Alonso Sanchez
        src="http://icons.iconarchive.com/icons/danleech/simple/96/linkedin-icon.png" />
 </a>
 
+--------
 ## License
 
     Copyright (C) 2016 Aaron He
